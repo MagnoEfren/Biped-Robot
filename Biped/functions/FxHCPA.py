@@ -1,4 +1,3 @@
-
 # Funciones de la cinematica directa de cadera respecto al pie de apoyo 
 import numpy as np 
 #from numba import jit
